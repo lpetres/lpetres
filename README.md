@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lpetres
 - 👀 I’m interested in evolving and learning more about in the world of software engineering.
-- 🌱 I am currently studying Computer Science, but I plan to switch to software engineering.
+- 🌱 I am currently studying System analysis and development.
 - 💞️ I'm wanting to collaborate on anything I can add to my resume and my image as a professional.
 
 <!---
